@@ -10,14 +10,11 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Document</title>
-</head>
+    </head>
+    <body>
 
-<body>
-
-</body>
-
-</html>
-
+    </body>
+    </html>
 3. 常用的章节标签有：
     * h1~h6 表示大标题
     * p     表示段落
